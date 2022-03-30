@@ -5,11 +5,16 @@ public class demo1 {
 		int x=4;
 		System.out.println(x);
 		
-		// implicit typecasting
+		// implicit typecasting - smaller datatype typecasting to bigger datatype eg: byte to int
 		int num1=6;
 		int num2=55;
 		System.out.println(num1 + num2);
-		System.out.println("total sum is " + num1 + num2);
+		System.out.println("total sum is " + num1 + num2);//implicit
+		
+		//explicit typecasting - bigger datatype typecasting to smaller datatype  eg:int to byte
+		
+		
+		
 		
 		//data types
 		
