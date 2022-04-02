@@ -1,0 +1,2 @@
+module fsd_training {
+}
