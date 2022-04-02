@@ -15,8 +15,4 @@ public class PC {
 		motherBoard.loadProgram("Windows10");
 		
 	}
-	private void drawLogo() {
-		mointor.drawPixel(1200,50,"yellow");
-	}
 	
-}
