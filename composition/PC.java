@@ -15,4 +15,8 @@ public class PC {
 		motherBoard.loadProgram("Windows10");
 		
 	}
+	private void drawLogo() {
+		monitor.drawPixel(1200,50,"yellow");
+	}
 	
+}
